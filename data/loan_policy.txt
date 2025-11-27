@@ -1,0 +1,28 @@
+Home Loan Approval Policy
+
+1. Eligibility Criteria
+   - Applicant must be at least 18 years old.
+   - Applicant must have a steady source of income.
+   - Co-applicant is recommended for higher loan amounts.
+
+2. Credit History
+   - A credit history score of 1.0 (Good) is highly preferred.
+   - Applicants with a credit history of 0.0 (Bad) are likely to be rejected.
+
+3. Loan Amount and Term
+   - Loan amount depends on the applicant's income and repayment capacity.
+   - Standard loan term is 360 months (30 years).
+
+4. Property Area
+   - Loans are available for Urban, Semiurban, and Rural areas.
+   - Semiurban areas often have higher approval rates.
+
+5. Documentation
+   - Valid ID proof.
+   - Income proof (Salary slips or IT returns).
+   - Property documents.
+
+6. Rejection Reasons
+   - Low income relative to loan amount.
+   - Poor credit history.
+   - Incomplete documentation.
