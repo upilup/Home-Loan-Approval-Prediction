@@ -1,4 +1,4 @@
-# 🏠 Home Loan Approval Prediction
+# 🏠 Home Loan Approval Prediction (https://homeloanapp.streamlit.app/)
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B)
