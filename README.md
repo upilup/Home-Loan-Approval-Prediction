@@ -72,4 +72,6 @@ After experimenting with multiple models, **Logistic Regression** was selected a
 - Improve model accuracy with advanced ensemble techniques.
 
 ## 👤 Author
-[Your Name]
+Muhammad Luthfi Alfatih
+- [GitHub](https://github.com/upilup)
+- [LinkedIn](https://www.linkedin.com/in/luthfialfatih/)
